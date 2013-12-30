@@ -1,5 +1,5 @@
 package org.reflections_example.extension
 
-abstract class BaseExtension {
+trait BaseExtension {
   def init
 }
