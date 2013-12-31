@@ -1,3 +1,5 @@
+Example codebase for [Detecting Scala Extensions at Runtime.](http://connectionrequired.com/blog/2013/12/detecting-scala-extension-classes-at-runtime/)
+
 This is an example codebase showing how to dynamically load extension code in java or scala (though the code is written in scala).
 
 To run:
